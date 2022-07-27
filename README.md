@@ -6,11 +6,11 @@ Montar los datos de la base de datos mediante un volumen.
 Hacer desde el servidor web alguna consulta que utilice el plugin que se incorporó en la construcción.
 
 Contenidos:
-    Construcción de imágenes
-    Docker compose
-    Puertos
-    Volúmenes: bind y volúmenes del sistema local
-    Definición técnica del proyecto
+    - Construcción de imágenes
+    - Docker compose
+    - Puertos
+    - Volúmenes: bind y volúmenes del sistema local
+    - Definición técnica del proyecto
 
 
 # LINK VIDEO
